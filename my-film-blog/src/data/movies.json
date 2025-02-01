@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "The Matrix",
+      "genre": "Sci-Fi, Action",
+      "rating": 8.7,
+      "year": 1999,
+      "image": "matrix.jpg",
+      "review": "A groundbreaking sci-fi action film that redefined the genre. The Matrix blends philosophy and technology in a mind-bending way."
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "genre": "Sci-Fi, Thriller",
+      "rating": 8.8,
+      "year": 2010,
+      "image": "inception.jpg",
+      "review": "Christopher Nolan's intricate narrative about dreams within dreams. A psychological thriller that keeps you questioning reality."
+    },
+    {
+      "id": 3,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama, Crime",
+      "rating": 9.3,
+      "year": 1994,
+      "image": "shawshank.jpg",
+      "review": "A tale of hope and redemption, this film explores the enduring human spirit through the story of a wrongly convicted man in prison."
+    },
+    {
+      "id": 4,
+      "title": "Interstellar",
+      "genre": "Sci-Fi, Drama",
+      "rating": 8.6,
+      "year": 2014,
+      "image": "interstellar.jpg",
+      "review": "A visually stunning journey through space and time, with an emotional core about love and sacrifice, directed by Christopher Nolan."
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "genre": "Action, Crime, Drama",
+      "rating": 9.0,
+      "year": 2008,
+      "image": "dark_knight.jpg",
+      "review": "The second entry in Christopher Nolan's Batman trilogy. The Dark Knight elevates superhero movies to new heights with a riveting performance by Heath Ledger as the Joker."
+    },
+    {
+      "id": 6,
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "genre": "Sci-Fi, Adventure",
+      "rating": 8.7,
+      "year": 1980,
+      "image": "empire_strikes_back.jpg",
+      "review": "Arguably the best film in the Star Wars saga, it continues the story of Luke Skywalker and his allies as they face off against the mighty Empire."
+    },
+    {
+      "id": 7,
+      "title": "Avatar",
+      "genre": "Sci-Fi, Adventure",
+      "rating": 7.8,
+      "year": 2009,
+      "image": "avatar.jpg",
+      "review": "James Cameron’s visual masterpiece, Avatar transports audiences to the alien world of Pandora with stunning visuals and environmental themes."
+    },
+    {
+      "id": 8,
+      "title": "The Godfather",
+      "genre": "Crime, Drama",
+      "rating": 9.2,
+      "year": 1972,
+      "image": "godfather.jpg",
+      "review": "A cinematic classic that tells the story of the powerful and secretive Corleone crime family, with unforgettable performances and direction."
+    },
+    {
+      "id": 9,
+      "title": "Pulp Fiction",
+      "genre": "Crime, Drama",
+      "rating": 8.9,
+      "year": 1994,
+      "image": "pulp_fiction.jpg",
+      "review": "Quentin Tarantino's revolutionary film that intertwines several stories of crime and redemption, known for its non-linear storytelling and unforgettable dialogue."
+    },
+    {
+      "id": 10,
+      "title": "Guardians of the Galaxy",
+      "genre": "Action, Comedy, Sci-Fi",
+      "rating": 8.0,
+      "year": 2014,
+      "image": "guardians_of_the_galaxy.jpg",
+      "review": "A quirky and fun entry in the Marvel Cinematic Universe that mixes sci-fi action with hilarious characters and an unforgettable retro soundtrack."
+    }
+  ]
+  
