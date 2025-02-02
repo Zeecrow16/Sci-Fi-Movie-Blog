@@ -1,0 +1,33 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+.header {
+    width: 100%; 
+    height: 25vh; 
+    background-image: url("../data/Images/background-header.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
+
+.welcome-text {
+    color: #0bd8f7;
+    font-size:xx-large;
+}
+
+.play-regular {
+    font-family: "Play", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .play-bold {
+    font-family: "Play", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  

@@ -1,7 +1,8 @@
 import React from "react";
-import blackFriday from "../../data/Images/black-friday.jpg"
+import theabyss from "../../data/Images/theabyss.jpg"
 import frankenstein from "../../data/Images/frankenstein.jpg";
-import metropolis from "../../data/Images/metropolis.jpeg";
+import inception from "../../data/Images/inception.jpg";
+import "../../styles/Carousel.css"
 
 
 const ViewMovie: React.FC = () => {
@@ -31,45 +32,57 @@ const ViewMovie: React.FC = () => {
               ></button>
             </div>
             <div className="carousel-inner">
-              <div className="carousel-item active">
-                <img src={blackFriday} className="d-block w-100" alt="Black Friday Movie" />
+            <div className="carousel-item active">
+                <img 
+                src={theabyss} 
+                className="d-block w-100" 
+                alt="The Abyss Movie" 
+                />
                 <div className="carousel-caption d-none d-md-block">
-                  <h5>Black Friday</h5>
-                  <p>Some representative placeholder content for the first slide.</p>
+                <h5>The Abyss</h5>
+                <p>1989</p>
                 </div>
-              </div>
-              <div className="carousel-item">
-                <img src={frankenstein} className="d-block w-100" alt="Frankenstein" />
+            </div>
+            <div className="carousel-item">
+                <img 
+                src={frankenstein} 
+                className="d-block w-100"  
+                alt="Frankenstein" 
+                />
                 <div className="carousel-caption d-none d-md-block">
-                  <h5>Frankenstein</h5>
-                  <p>Some representative placeholder content for the second slide.</p>
+                <h5>Frankenstein</h5>
+                <p>1931</p>
                 </div>
-              </div>
-              <div className="carousel-item">
-                <img src={metropolis} className="d-block w-100" alt="Metropolis" />
+            </div>
+            <div className="carousel-item">
+                <img 
+                src={inception} 
+                className="d-block w-100" 
+                alt="Inception"  
+                />
                 <div className="carousel-caption d-none d-md-block">
-                  <h5>Metropolis</h5>
-                  <p>Some representative placeholder content for the third slide.</p>
+                <h5>Inception</h5>
+                <p>2010</p>
                 </div>
-              </div>
+            </div>
             </div>
             <button
-              className="carousel-control-prev"
-              type="button"
-              data-bs-target="#carouselExampleCaptions"
-              data-bs-slide="prev"
+            className="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide="prev"
             >
-              <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span className="visually-hidden">Previous</span>
+            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span className="visually-hidden">Previous</span>
             </button>
             <button
-              className="carousel-control-next"
-              type="button"
-              data-bs-target="#carouselExampleCaptions"
-              data-bs-slide="next"
+            className="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExampleCaptions"
+            data-bs-slide="next"
             >
-              <span className="carousel-control-next-icon" aria-hidden="true"></span>
-              <span className="visually-hidden">Next</span>
+            <span className="carousel-control-next-icon" aria-hidden="true"></span>
+            <span className="visually-hidden">Next</span>
             </button>
           </div>
         </>
