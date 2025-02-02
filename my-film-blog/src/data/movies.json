@@ -6,7 +6,8 @@
       "rating": 8.7,
       "year": 1999,
       "image": "matrix.jpg",
-      "review": "A groundbreaking sci-fi action film that redefined the genre. The Matrix blends philosophy and technology in a mind-bending way."
+      "review": "A groundbreaking sci-fi action film that redefined the genre. The Matrix blends philosophy and technology in a mind-bending way.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 2,
@@ -15,7 +16,8 @@
       "rating": 8.8,
       "year": 2010,
       "image": "inception.jpg",
-      "review": "Christopher Nolan's intricate narrative about dreams within dreams. A psychological thriller that keeps you questioning reality."
+      "review": "Christopher Nolan's intricate narrative about dreams within dreams. A psychological thriller that keeps you questioning reality.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
       "rating": 9.3,
       "year": 1994,
       "image": "shawshank.jpg",
-      "review": "A tale of hope and redemption, this film explores the enduring human spirit through the story of a wrongly convicted man in prison."
+      "review": "A tale of hope and redemption, this film explores the enduring human spirit through the story of a wrongly convicted man in prison.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 4,
@@ -33,7 +36,8 @@
       "rating": 8.6,
       "year": 2014,
       "image": "interstellar.jpg",
-      "review": "A visually stunning journey through space and time, with an emotional core about love and sacrifice, directed by Christopher Nolan."
+      "review": "A visually stunning journey through space and time, with an emotional core about love and sacrifice, directed by Christopher Nolan.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 5,
@@ -42,7 +46,8 @@
       "rating": 9.0,
       "year": 2008,
       "image": "dark_knight.jpg",
-      "review": "The second entry in Christopher Nolan's Batman trilogy. The Dark Knight elevates superhero movies to new heights with a riveting performance by Heath Ledger as the Joker."
+      "review": "The second entry in Christopher Nolan's Batman trilogy. The Dark Knight elevates superhero movies to new heights with a riveting performance by Heath Ledger as the Joker.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 6,
@@ -51,7 +56,8 @@
       "rating": 8.7,
       "year": 1980,
       "image": "empire_strikes_back.jpg",
-      "review": "Arguably the best film in the Star Wars saga, it continues the story of Luke Skywalker and his allies as they face off against the mighty Empire."
+      "review": "Arguably the best film in the Star Wars saga, it continues the story of Luke Skywalker and his allies as they face off against the mighty Empire.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 7,
@@ -60,7 +66,8 @@
       "rating": 7.8,
       "year": 2009,
       "image": "avatar.jpg",
-      "review": "James Cameron’s visual masterpiece, Avatar transports audiences to the alien world of Pandora with stunning visuals and environmental themes."
+      "review": "James Cameron’s visual masterpiece, Avatar transports audiences to the alien world of Pandora with stunning visuals and environmental themes.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 8,
@@ -69,7 +76,8 @@
       "rating": 9.2,
       "year": 1972,
       "image": "godfather.jpg",
-      "review": "A cinematic classic that tells the story of the powerful and secretive Corleone crime family, with unforgettable performances and direction."
+      "review": "A cinematic classic that tells the story of the powerful and secretive Corleone crime family, with unforgettable performances and direction.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 9,
@@ -78,7 +86,8 @@
       "rating": 8.9,
       "year": 1994,
       "image": "pulp_fiction.jpg",
-      "review": "Quentin Tarantino's revolutionary film that intertwines several stories of crime and redemption, known for its non-linear storytelling and unforgettable dialogue."
+      "review": "Quentin Tarantino's revolutionary film that intertwines several stories of crime and redemption, known for its non-linear storytelling and unforgettable dialogue.",
+      "poster": "Matrix.jpg"
     },
     {
       "id": 10,
@@ -87,7 +96,8 @@
       "rating": 8.0,
       "year": 2014,
       "image": "guardians_of_the_galaxy.jpg",
-      "review": "A quirky and fun entry in the Marvel Cinematic Universe that mixes sci-fi action with hilarious characters and an unforgettable retro soundtrack."
+      "review": "A quirky and fun entry in the Marvel Cinematic Universe that mixes sci-fi action with hilarious characters and an unforgettable retro soundtrack.",
+      "poster": "Matrix.jpg"
     }
   ]
   

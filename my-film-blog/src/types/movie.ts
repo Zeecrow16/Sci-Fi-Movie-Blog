@@ -5,4 +5,5 @@ export interface Movie {
     genre: string;
     rating: number;
     review: string;
+    poster: string;
   }  

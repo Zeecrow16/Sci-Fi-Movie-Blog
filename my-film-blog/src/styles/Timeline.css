@@ -1,0 +1,64 @@
+.timeline-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 20px 0;
+  }
+  
+  .timeline {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+    max-width: 80%;
+    padding: 10px;
+    border-bottom: 3px solid #000;
+  }
+  
+  .timeline::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .timeline-item {
+    flex: 0 0 auto;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: bold;
+    transition: transform 0.3s, background-color 0.3s;
+  }
+  
+  .timeline-item:hover {
+    transform: scale(1.1);
+  }
+  
+  .timeline-item.active {
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 20px;
+    padding: 10px 25px;
+  }
+  
+  .scroll-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.6);
+    border: none;
+    padding: 10px 15px;
+    font-size: 1.5rem;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .scroll-btn.left {
+    left: 0;
+  }
+  
+  .scroll-btn.right {
+    right: 0;
+  }
+  

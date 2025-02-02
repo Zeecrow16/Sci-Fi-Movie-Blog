@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import MovieList from './pages/MovieDetailPage';
 import HomePage from './pages/HomePage';
 import './styles/App.css'
+import MoviesPage from './pages/MovieDetailPage';
 
 const App: React.FC = () => {
   return (
@@ -24,7 +24,7 @@ const App: React.FC = () => {
           {/* Home Page */}
           <Route path='/' element={<HomePage />} />
           {/* Move Page */}
-          <Route path='/movies' element={<MovieList />} />
+          <Route path='/movies' element={<MoviesPage />} />
         </Routes>
       </div>
     </Router>
